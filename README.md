@@ -46,4 +46,4 @@ The designs were created to the following widths:
 
 - FullName - [Giorgi Gurgenidze]
 - Website(GitHub) - [Giorgi](https://github.com/gurgenidzegiorgi/NFT-preview-card-component)
-- Live Server(GitHub) - ()
+- Live Server(GitHub) - [](https://gurgenidzegiorgi.github.io/NFT-preview-card-component/)
